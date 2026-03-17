@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.large-section {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.large-section>img {
+    object-fit: contain;
+}
+
+.sneaker-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 24px;
+    padding: 24px;
+    list-style: none;
+}
+
+.sneaker-item-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: white;
+    border-color: darkgray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    box-shadow: -2px 2px 8px 0px rgba(0, 0, 0, 0.2);
+    padding: 0px 32px 32px  32px;
+}
+
+.sneaker-item {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 100%;
+    flex: 1;
+}
+
+.sneaker-item img {
+    height: 256px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.sneaker-item p 
+{
+    font-family: 'Inter', sans-serif;
+}
+
+.sneaker-name
+{
+        font-size: 1.1rem;
+
+    font-weight: bold;
+}
+.sneaker-price
+{
+    margin-top: auto;
+    align-self: center;
+    
+    font-weight: bold;
+    font-size: 1.3rem;
+}

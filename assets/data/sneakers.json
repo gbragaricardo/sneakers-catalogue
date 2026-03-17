@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "brand": "Jordan",
+    "name": "Air Jordan 1 Retro High OG 'Chicago Lost & Found'",
+    "price": 450,
+    "image": "https://images.stockx.com/360/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Lv2/img01.jpg?w=480&q=57&dpr=2&updated_at=1665692308&h=320"
+  },
+  {
+    "id": 2,
+    "brand": "Jordan",
+    "name": "Air Jordan 4 Retro 'Military Black'",
+    "price": 380,
+    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 3,
+    "brand": "Nike",
+    "name": "Dunk Low 'Panda'",
+    "price": 110,
+    "image": "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 4,
+    "brand": "Adidas",
+    "name": "Yeezy Boost 350 V2 'Zebra'",
+    "price": 230,
+    "image": "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Zebra/Images/adidas-Yeezy-Boost-350-V2-Zebra/Lv2/img01.jpg?w=576&q=57&dpr=2&updated_at=1703165447&h=384"
+  },
+  {
+    "id": 5,
+    "brand": "New Balance",
+    "name": "550 'White Grey'",
+    "price": 120,
+    "image": "https://images.stockx.com/images/New-Balance-550-White-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 6,
+    "brand": "Jordan",
+    "name": "Air Jordan 1 Low 'Travis Scott Reverse Mocha'",
+    "price": 1200,
+    "image": "https://images.stockx.com/360/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Reverse-Mocha/Images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Reverse-Mocha/Lv2/img01.jpg?w=576&q=57&dpr=2&updated_at=1662135192&h=384"
+  },
+  {
+    "id": 7,
+    "brand": "Nike",
+    "name": "Air Force 1 '07 White'",
+    "price": 90,
+    "image": "https://images.stockx.com/images/Nike-Air-Force-1-Low-White-07-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 8,
+    "brand": "Jordan",
+    "name": "Air Jordan 3 Retro 'White Cement Reimagined'",
+    "price": 250,
+    "image": "https://images.stockx.com/images/Air-Jordan-3-Retro-White-Cement-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 9,
+    "brand": "Adidas",
+    "name": "Samba OG 'Cloud White Gum'",
+    "price": 100,
+    "image": "https://images.stockx.com/images/Adidas-Samba-OG-White-Black-Gum-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 10,
+    "brand": "Nike",
+    "name": "SB Dunk Low 'Orange Lobster'",
+    "price": 400,
+    "image": "https://images.stockx.com/images/Nike-SB-Dunk-Low-Concepts-Orange-Lobster-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 11,
+    "brand": "New Balance",
+    "name": "2002R 'Protection Pack Rain Cloud'",
+    "price": 180,
+    "image": "https://images.stockx.com/images/New-Balance-2002R-Protection-Pack-Rain-Cloud-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 12,
+    "brand": "Jordan",
+    "name": "Air Jordan 11 Retro 'Cherry'",
+    "price": 225,
+    "image": "https://images.stockx.com/images/Air-Jordan-11-Retro-Cherry-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 13,
+    "brand": "Nike",
+    "name": "Air Max 1 'Travis Scott Cactus Corp'",
+    "price": 350,
+    "image": "https://images.stockx.com/images/Nike-Air-Max-1-Travis-Scott-Cactus-Jack-Baroque-Brown-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 14,
+    "brand": "Adidas",
+    "name": "Yeezy Slide 'Pure'",
+    "price": 120,
+    "image": "https://images.stockx.com/images/Adidas-Yeezy-Slide-Pure-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 15,
+    "brand": "Jordan",
+    "name": "Air Jordan 1 Retro High OG 'UNC Toe'",
+    "price": 200,
+    "image": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-UNC-Toe-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 16,
+    "brand": "Nike",
+    "name": "Dunk Low 'Grey Fog'",
+    "price": 130,
+    "image": "https://images.stockx.com/images/Nike-Dunk-Low-Grey-Fog-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 17,
+    "brand": "New Balance",
+    "name": "9060 'Sea Salt'",
+    "price": 160,
+    "image": "https://images.stockx.com/images/New-Balance-9060-Sea-Salt-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 18,
+    "brand": "Jordan",
+    "name": "Air Jordan 4 Retro 'Thunder'",
+    "price": 240,
+    "image": "https://images.stockx.com/images/Air-Jordan-4-Retro-Thunder-2023-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 19,
+    "brand": "Nike",
+    "name": "Air Max 95 'Corteiz Pink Beam'",
+    "price": 500,
+    "image": "https://images.stockx.com/images/Nike-Air-Max-95-Corteiz-Pink-Beam-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  },
+  {
+    "id": 20,
+    "brand": "Adidas",
+    "name": "Bad Bunny x Campus 'Light Brown'",
+    "price": 160,
+    "image": "https://images.stockx.com/images/Adidas-Campus-Light-Bad-Bunny-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+  }
+]
