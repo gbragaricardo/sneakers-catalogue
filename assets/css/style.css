@@ -2,17 +2,81 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+    font-family: 'Inter', sans-serif;
+}
+.top-bar
+{
+    background-color: #efefef;
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.top-bar__brand
+{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    justify-content: flex-start;
+    flex: 1;
+}
+
+.top-bar__logo
+{
+    height: 48px;
+    border-radius: 50%;
+}
+
+.top-bar__search-box
+{
+    flex: 1;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 8px;
+    border-radius: 8px;
+    background-color: white;
+    margin: 0px 32px;
+
+}
+
+.top-bar__search-box > input
+{
+    appearance: none;
+    outline: none;
+    border-width: 0px;
+    height: 100;
+    padding: 0px 8px;
+    width:  100%;
+}
+
+
+.top-bar__icons
+{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    padding-right: 16px;
+    gap: 16px;
+    justify-content: right;
 }
 
 .large-section {
-    height: 250px;
+    height: 324px;
+    padding: 24px;
     display: flex;
     justify-content: center;
 }
 
-.large-section>img {
+.large-section > img {
     object-fit: contain;
+}
+
+.sneaker-grid
+{
+    background-color: #efefef;
 }
 
 .sneaker-list {
@@ -50,15 +114,9 @@
     object-fit: contain;
 }
 
-.sneaker-item p 
-{
-    font-family: 'Inter', sans-serif;
-}
-
 .sneaker-name
 {
-        font-size: 1.1rem;
-
+    font-size: 1.1rem;
     font-weight: bold;
 }
 .sneaker-price
@@ -68,4 +126,24 @@
     
     font-weight: bold;
     font-size: 1.3rem;
+}
+
+@media screen and (max-width: 640px)
+{
+    .top-bar
+    {
+        flex-direction: column;
+        gap: 32px;
+        padding:  32px;
+    }
+
+    .top-bar__search-box
+    {
+        order: 1;
+    }
+
+    .top-bar__icons
+    {
+        order: 0;
+    }
 }
